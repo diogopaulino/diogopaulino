@@ -6,5 +6,5 @@ Tech Lead Frontend @Petlove.
 [![Gmail Badge](https://img.shields.io/badge/-diogopaulino.web@gmail.com-000?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:diogopaulino.web@gmail.com)](mailto:diogopaulino.web@gmail.com)
 
 
-“A simplicidade é o último grau de sofisticação." 
+“A simplicidade é o último grau de sofisticação."<br />
 Leonardo da Vinci
