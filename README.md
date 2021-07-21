@@ -9,4 +9,4 @@ Apaixonado pela web 🖤
 
 
 “A simplicidade é o último grau de sofisticação."<br />
-<i>Leonardo da Vinci</i>
+<i><small>Leonardo da Vinci</small></i>
