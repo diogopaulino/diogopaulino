@@ -7,5 +7,4 @@ Tech Lead Frontend @Petlove.
 
 
 “A simplicidade é o último grau de sofisticação."
-
 Leonardo da Vinci
