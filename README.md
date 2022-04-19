@@ -6,7 +6,7 @@ Tech Lead Frontend @Petlove.
 [![Gmail Badge](https://img.shields.io/badge/-diogopaulino.web@gmail.com-000?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:diogopaulino.web@gmail.com)](mailto:diogopaulino.web@gmail.com)
 
 Design & Code lover 🖤<br />
-http://diogopaulino.com.br/
+https://diogopaulino.github.io/
 
 
 “A simplicidade é o último grau de sofisticação."<br />
