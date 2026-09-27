@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="224" viewBox="0 0 900 224" role="img" aria-labelledby="title desc">
+  <title id="title">Diogo Paulino</title>
+  <desc id="desc">Tech Manager, Frontend and AI</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1"
+      gradientTransform="translate(790 42) rotate(138) scale(360 240)">
+      <stop stop-color="#2f81f7" stop-opacity=".16"/>
+      <stop offset=".55" stop-color="#2f81f7" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".022"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="224" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="224" rx="22" fill="url(#glow)"/>
+  <rect width="900" height="224" rx="22" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="899" height="223" rx="21.5"
+    fill="none" stroke="#30363d" stroke-opacity=".85"/>
+
+  <text x="58" y="61"
+    fill="#8b949e"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" letter-spacing="2.2">HELLO, I'M</text>
+
+  <text x="58" y="116"
+    fill="#f0f6fc"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="50" font-weight="700" letter-spacing="-1.4">Diogo Paulino</text>
+
+  <text x="58" y="153"
+    fill="#c9d1d9"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="19">Tech Manager · Frontend · AI</text>
+
+  <text x="58" y="186"
+    fill="#8b949e"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="15.5">Building products, teams &amp; systems that scale.</text>
+
+  <rect x="58" y="202" width="82" height="3" rx="1.5" fill="#2f81f7"/>
+  <rect x="147" y="202" width="30" height="3" rx="1.5" fill="#58a6ff" fill-opacity=".34"/>
+</svg>
