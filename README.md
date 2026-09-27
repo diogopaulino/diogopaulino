@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <sub>Product engineering&nbsp;&nbsp;·&nbsp;&nbsp;Frontend architecture&nbsp;&nbsp;·&nbsp;&nbsp;AI-native experiences&nbsp;&nbsp;·&nbsp;&nbsp;Developer experience</sub>
+  <sub>Product engineering&nbsp;&nbsp;·&nbsp;&nbsp;Frontend architecture&nbsp;&nbsp;·&nbsp;&nbsp;AI-native systems&nbsp;&nbsp;·&nbsp;&nbsp;Developer experience</sub>
 </p>
