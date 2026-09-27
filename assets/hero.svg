@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
   <title id="title">Diogo Paulino</title>
   <desc id="desc">Tech Manager, Frontend and AI</desc>
   <defs>
@@ -6,29 +6,43 @@
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(760 45) rotate(135) scale(330 220)">
-      <stop stop-color="#2f81f7" stop-opacity=".28"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(780 36) rotate(135) scale(300 190)">
+      <stop stop-color="#2f81f7" stop-opacity=".22"/>
       <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+      <path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".032"/>
     </pattern>
   </defs>
 
-  <rect width="900" height="280" rx="24" fill="url(#bg)"/>
-  <rect width="900" height="280" rx="24" fill="url(#glow)"/>
-  <rect width="900" height="280" rx="24" fill="url(#grid)"/>
-  <rect x=".5" y=".5" width="899" height="279" rx="23.5" fill="none" stroke="#30363d"/>
+  <rect width="900" height="240" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="240" rx="22" fill="url(#glow)"/>
+  <rect width="900" height="240" rx="22" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="899" height="239" rx="21.5" fill="none" stroke="#30363d"/>
 
-  <circle cx="810" cy="58" r="54" fill="#2f81f7" fill-opacity=".08"/>
-  <circle cx="810" cy="58" r="34" fill="#2f81f7" fill-opacity=".08"/>
-  <circle cx="810" cy="58" r="6" fill="#58a6ff"/>
+  <g transform="translate(785 28)">
+    <rect width="70" height="70" rx="20" fill="#58a6ff" fill-opacity=".07" stroke="#58a6ff" stroke-opacity=".15"/>
+    <text x="35" y="45" text-anchor="middle" fill="#58a6ff"
+      font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="25" font-weight="700" letter-spacing="-1">DP</text>
+  </g>
 
-  <text x="58" y="84" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="2">HELLO, I'M</text>
-  <text x="58" y="145" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="50" font-weight="700">Diogo Paulino</text>
-  <text x="58" y="184" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="20">Tech Manager · Frontend · AI</text>
-  <text x="58" y="220" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16">Building products, teams &amp; systems that scale.</text>
+  <text x="58" y="66" fill="#8b949e"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="14" font-weight="600" letter-spacing="2">HELLO, I'M</text>
 
-  <rect x="58" y="241" width="94" height="3" rx="1.5" fill="#2f81f7"/>
-  <rect x="158" y="241" width="38" height="3" rx="1.5" fill="#58a6ff" fill-opacity=".45"/>
+  <text x="58" y="121" fill="#f0f6fc"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="48" font-weight="700" letter-spacing="-1">Diogo Paulino</text>
+
+  <text x="58" y="157" fill="#c9d1d9"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="19">Tech Manager · Frontend · AI</text>
+
+  <text x="58" y="192" fill="#8b949e"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="15.5">Building products, teams &amp; systems that scale.</text>
+
+  <rect x="58" y="211" width="86" height="3" rx="1.5" fill="#2f81f7"/>
+  <rect x="151" y="211" width="34" height="3" rx="1.5" fill="#58a6ff" fill-opacity=".4"/>
 </svg>
