@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Diogo Paulino — Tech Manager, Frontend & AI" width="100%" />
+  <img src="./assets/hero-v2.svg" alt="Diogo Paulino — Tech Manager, Frontend & AI" width="100%" />
 </p>
 
 <p align="center">
